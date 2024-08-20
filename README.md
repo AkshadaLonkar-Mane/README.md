@@ -1,4 +1,4 @@
-# GitHub Pages Site
+
 # Hi, I'm Akshada Mane! 👋
 
 I'm a Python developer with a background in statistics and data analysis. I build projects that leverage data and machine learning to solve real-world problems.
